@@ -40,7 +40,7 @@ KEY_LEFT_SPECIAL = KEY_ESC + "OD"
 KEY_RIGHT_SPECIAL = KEY_ESC + "OC"
 
 class Selecta
-  VERSION = [0, 0, 2]
+  VERSION = [0, 0, 3, '[github.com/beyondcompute/selecta]']
 
   def main
     # We have to parse options before setting up the screen or trying to read
